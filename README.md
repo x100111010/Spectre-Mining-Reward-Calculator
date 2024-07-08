@@ -50,4 +50,3 @@ When prompted, enter your mining hashrate in kH/s. The script will output the cu
 ## License
 
 This project is licensed under the MIT License.
-```
